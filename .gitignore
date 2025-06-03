@@ -15,3 +15,5 @@ projects/
 dist/
 tmp/
 filings/
+
+secret/
